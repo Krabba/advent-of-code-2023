@@ -1,0 +1,12 @@
+{
+  "name": "advent-of-code-2023",
+  "description": "Solutions to Advent of Code 2023",
+  "author": "Krabba",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
