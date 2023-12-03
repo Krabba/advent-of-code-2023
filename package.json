@@ -3,6 +3,10 @@
   "description": "Solutions to Advent of Code 2023",
   "author": "Krabba",
   "type": "module",
+  "scripts": {
+    "01-1": "bun 01/partOne.ts",
+    "01-2": "bun 01/partTwo.ts"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
