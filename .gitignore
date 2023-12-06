@@ -174,5 +174,5 @@ dist
 # Finder (MacOS) folder config
 .DS_Store
 
-# attempts
-*attempt*.ts
+# Ignore TS files starting with _
+_*.ts
