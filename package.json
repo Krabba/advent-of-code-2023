@@ -15,7 +15,9 @@
     "05-1": "bun 05/partOne.ts",
     "05-2": "bun 05/partTwo.ts",
     "06-1": "bun 06/partOne.ts",
-    "06-2": "bun 06/partTwo.ts"
+    "06-2": "bun 06/partTwo.ts",
+    "07-1": "bun 07/partOne.ts",
+    "07-2": "bun 07/partTwo.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
