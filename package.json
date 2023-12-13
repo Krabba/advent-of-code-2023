@@ -23,7 +23,9 @@
     "09-1": "bun 09/partOne.ts",
     "09-2": "bun 09/partTwo.ts",
     "10-1": "bun 10/partOne.ts",
-    "10-2": "bun 10/partTwo.ts"
+    "10-2": "bun 10/partTwo.ts",
+    "11-1": "bun 11/partOne.ts",
+    "11-2": "bun 11/partTwo.ts"
   },
   "devDependencies": {
     "bun-types": "latest"
